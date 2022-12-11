@@ -24,9 +24,8 @@ const replies = ["Ding! 🔔", "Hello there 👋", "Here I am. 😊"]
 client.on('message', gotMessage);
 
 async function gotMessage(msg) {
-    // 1010815557412601886
-    //msg.channel.id == '1010631179231314001' && 
-    if (msg.channel.id =='1010631179231314001') {
+
+    if (msg.channel.id =='###YOURDISCORDCHANNELNUMBER###') {
         let tokens = msg.content.split(" ");
         const index = Math.floor(Math.random() * replies.length);
         if (tokens[0]=='!oggy') {
