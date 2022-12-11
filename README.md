@@ -18,4 +18,4 @@ And a tenor account which you connect your bot to get gifs. You can use any othe
 /*** END ***/
 
 [package.json]: https://github.com/epcm18/DiscordGIFBot/blob/master/package.json
-[bot.js]: [bot.js]
+[bot.js]: https://github.com/epcm18/DiscordGIFBot/blob/master/bot.js
