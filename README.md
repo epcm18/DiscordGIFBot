@@ -9,12 +9,12 @@ bot will generate appropiate results and save some of them to an arraylist and t
 
 ## Requirements
 
-You will need some of the discord pacakages.
-All the packages I used are in the package.json file
-You can read more info about those from here https://discordjs.guide/miscellaneous/useful-packages.html#day-js 
+You will need some of the discord pacakages.<br />
+All the packages I used are in the package.json[https://github.com/epcm18/DiscordGIFBot/blob/master/package.json] file <br />
+You can read more info about those from here https://discordjs.guide/miscellaneous/useful-packages.html#day-js <br />
 And a tenor account which you connect your bot to get gifs. You can use any other platform also, like giphy.
 
--- main code is in the bot.js file
+-- main code is in the bot.js file <br />
 /*** END ***/
 
 
