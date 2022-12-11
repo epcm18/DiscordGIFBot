@@ -1,6 +1,6 @@
 # DiscordGIFBot
 
-This is a simple discord bot which you can use for getting gifs.
+This is a simple discord bot which you can use for generating gifs.
 
 ## Description
 
@@ -8,6 +8,5 @@ This discord bot was implemented using node/js and tenor api. You only need to m
 bot will generate appropiate results and save some of them to an arraylist and then it will return a random gif(element) from that arraylist.
 
 /*** END ***/
-```
 
 
